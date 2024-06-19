@@ -18,19 +18,48 @@ We welcome contributions . Please read our [Contributing Guide](CONTRIBUTING.md)
 
 
 
-### How to Contribute
+### Contributing Code
 
+#### Forking the Repository
+1. **Fork the Repository:** Click the "Fork" button at the top right of this page to create a copy of the repository in your GitHub account.
 
+#### Cloning the Repository
+2. **Clone your Fork:** Clone your forked repository to your local machine:
+    ```bash
+    git clone https://github.com/your-username/repository-name.git
+    ```
+3. **Navigate to the Project Directory:**
+    ```bash
+    cd repository-name
+    ```
 
+#### Creating a Branch
+4. **Create a New Branch:** Create a new branch for your work with a descriptive name:
+    ```bash
+    git checkout -b branch-name
+    ```
 
-1. Fork this repository.
-2. Clone your forked repository.
-3. Create a new branch for your changes.
-4. Implement your changes and commit them.
-5. Push your changes to your forked repository.
-6. Submit a pull request to this repository.
-7.  Now, it time for review (Don't worry, our team we will review your Pull Request(PR) within 12 hours.
-8.  You will be featuring in our Contributors tab.
+#### Making Changes
+5. **Make Your Changes:** Make the necessary changes or additions in your branch. Ensure your code follows the project's coding style and guidelines.
+
+#### Committing Changes
+6. **Commit Your Changes:** Commit your changes with a clear and descriptive commit message:
+    ```bash
+    git commit -m "Description of changes"
+    ```
+
+#### Pushing Changes
+7. **Push to Your Fork:** Push your changes to your forked repository:
+    ```bash
+    git push origin branch-name
+    ```
+
+#### Creating a Pull Request
+8. **Open a Pull Request:** Go to the original repository on GitHub and open a pull request from your forked repository. Provide a clear description of your changes, linking to any relevant issues.
+   Done!
+### Code Review process
+1.  Now, its time for review (Don't worry, our team we will review your Pull Request(PR) within 12 hours.
+2.  You will be featuring in our Contributors tab.
 
 ### Thanks for your contribution!
 ### Regards,
