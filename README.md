@@ -4,7 +4,19 @@ A repo of data structures and algorithms implemented in various programming lang
 
 ## Getting Started
 
-We welcome contributions from everyone. Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
+### Why we should contribute in open-source
+- Collaboration and Innovation
+- Skill Enhancement
+- Community and Purpose
+
+
+We welcome contributions . Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
+
+### Reporting Issues
+1. **Search Existing Issues:** Before creating a new issue, please check the [existing issues](https://github.com/praneethgourla18/DSAmystic/issues) to avoid duplicates.
+2. **Creating a New Issue:**  You can also contribute by, opening a new [issue](https://github.com/praneethgourla18/DSAmystic/issues/new) and raise a pull request for it . Our team will merge the PR's as soon as possible .
+
+
 
 ### How to Contribute
 
@@ -18,6 +30,7 @@ We welcome contributions from everyone. Please read our [Contributing Guide](CON
 5. Push your changes to your forked repository.
 6. Submit a pull request to this repository.
 7.  Now, it time for review (Don't worry, our team we will review your Pull Request(PR) within 12 hours.
+8.  You will be featuring in our Contributors tab.
 
 ### Thanks for your contribution!
 ### Regards,
