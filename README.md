@@ -1,6 +1,6 @@
 # DSA Mystic
 
-A repo of data structures and algorithms implemented in various programming languages , Where anyone can contribute .
+A repository to help the open-source community with DSA related contributions !
 
 ## Getting Started
 
