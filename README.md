@@ -2,6 +2,10 @@
 
 A repository to help the open-source community with DSA related contributions !
 
+## Checkout these questions that will help you to crack your next tech interview .
+- [Arrays](Problems/Arrays/ArrayQuestions.md)
+- [Linked List](LLquestions.md)
+
 ## Getting Started
 
 ### Why we should contribute in open-source
