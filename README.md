@@ -66,44 +66,4 @@ We welcome contributions . Please read our [Contributing Guide](CONTRIBUTING.md)
 2.  You will be featuring in our Contributors tab.
 
 ### Thanks for your contribution!
-### Regards,
-### Team DSA Mystic.
 
-### Maintainers
-
-<table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 200.0; height: 200.0">
-        <a href="https://github.com/praneethgourla18">
-            <img src="https://avatars.githubusercontent.com/u/154213100?s=400&u=b4d24984276871a5f96e7a5d1158cd58694e7c4e&v=4" width="200;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Praneeth Gourla />
-            <br />
-            <sub style="font-size:14px"><b>Praneeth Gourla</b></sub>
-        </a>
-    </td>
-    
-        
-</tr>
-</table>
-
-### Contributors
-
-<table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/praneethgourla18>
-            <img src="https://avatars.githubusercontent.com/u/154213100?s=400&u=b4d24984276871a5f96e7a5d1158cd58694e7c4e&v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Praneeth Gourla/>
-            <br />
-            <sub style="font-size:14px"><b>Praneeth Gourla</b></sub>
-        </a>
-    </td>
-
-  <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/sarayuCheganti>
-            <img src="https://avatars.githubusercontent.com/u/127959122?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Praneeth Gourla/>
-            <br />
-            <sub style="font-size:14px"><b>Sarayu Cheganti</b></sub>
-        </a>
-    </td>
-    
-</tr>
-</table>
