@@ -1,4 +1,4 @@
-# DSA Mystic
+# DSA Open Source
 
 A repository to help the open-source community with DSA related contributions !
 
